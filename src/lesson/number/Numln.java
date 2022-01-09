@@ -1,4 +1,4 @@
-package lesson.numln;
+package lesson.number;
 
 public class Numln {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package lesson.sumnumbers;
+package lesson.number;
 
 import java.util.Scanner;
 
