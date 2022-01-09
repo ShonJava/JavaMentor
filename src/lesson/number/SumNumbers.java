@@ -12,6 +12,6 @@ public class SumNumbers {
             System.out.println(i);
             sum += i;
         }
-        System.out.println("Сумма чисел от 1 до " + number + "равна: " + sum);
+        System.out.println("Сумма чисел от 1 до " + number + " равна: " + sum);
     }
 }
