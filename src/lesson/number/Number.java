@@ -12,7 +12,7 @@ public class Number {
         } else if (number < 0) {
             System.out.println(number + " negative number");
         } else {
-            System.out.println(number + " pozitive number");
+            System.out.println(number + " pozitiv number");
         }
 
     }
